@@ -1,0 +1,10 @@
+{
+  "name": "منصة قياس القرائية العربية",
+  "description": "منصة تعليمية بحثية متطورة مصممة لقياس وتقييم مهارات القرائية لدى الطلبة في مراحل التعليم الأساسي، مع دعم كامل لتحليل الأداء الصوتي واللغوي وإعداد خطط تدخل تعليمية احترافية.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
